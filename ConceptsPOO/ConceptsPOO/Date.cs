@@ -9,10 +9,12 @@ namespace ConceptsPOO
 {
     public class Date
     {
+        //Attribute
         private int _year;
         private int _month;
         private int _day;
 
+        //Constructor
         public Date(int year, int month, int day)
         {
             _year = year;
