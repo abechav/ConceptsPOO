@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConceptsPOO
 {
-    public abstract class Employee
+    public abstract class Employee : IPay
     {
         //Atribute
         private string _firtsName;
