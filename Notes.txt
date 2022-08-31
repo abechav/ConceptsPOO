@@ -1,0 +1,28 @@
+Atributos: son los campos que definen la clase y son privados, se usan cuando se necesita validar el dato que recibe la clase
+Propiedades: defines la clase y son públicos, son los que más se usan
+override: Permite sobrescribir un método
+Clase Abstracta: es una clase base para un grupo de clases iguales, con propiedades y métodos comunes entre varias clases para su implementación
+Interface: define las funciones de un grupo que se tiene que se deben implementar - contrato cada clase que la use tiene que implementar sus métodos
+Herencia de clase: Usar propiedades y métodos de una clase padre
+Interpolar String: $"{base.ToString()}
+Castear Valor: (decimal)CommissionPercentaje
+Clase con constructor: se le pasen los datos - Date date1 = new Date(2022, 8, 9);
+Clase con propiedades: Employee employee1 = new SalaryEmployee()
+                {
+                    Id = 1023,
+                };
+Polimorfismo: es un mismo método, pero tiene diferente lógica en las clases que lo implementan
+Sobrecarga: se utiliza es mismo método, pero con diferentes cantidades de parámetros
+Una clase solo se puede heredar de una sola clase, pero puede implementar las clases que quiera
+
+ADO Connect: me toca crear un objeto reader, creo el sql
+Entity Framework: Es un ORM (Object Relational Mapper) Nos permite manipular los datos de la base de datos como
+	usando objetos, crear tablas o guardar datos sin tener contacto con la base
+	Code First ->primero hago las entidades y luego hago la base de datos 
+	Database First -> primero está la base datos y luego creo las entidades
+
+
+
+
+
+ 
